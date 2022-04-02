@@ -1,0 +1,46 @@
+.mainHeader {
+	background-color: whitesmoke;
+}
+
+.imageLeft {
+	float: left; 
+	margin-right: 10px;
+}
+
+.imageRight {
+	float: right; 
+	margin-left: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.box1  {
+	background-color: whitesmoke;
+	text-align: left;
+}
+p {
+	font-family: 'Boogaloo', cursive;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 20px;
+}
+h1 {
+	font-family: 'Boogaloo', cursive;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+}
+ul {
+	font-family: 'Boogaloo', cursive;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 18px;
+}
+
+iframe {
+	align-content: center;
+	display: center;
+	width: 70%;
+}
