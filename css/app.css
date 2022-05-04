@@ -36,41 +36,44 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;}
+  width: 50%;}
 
 h1{
 	color: #222222; 
-	font-family: 'Libre Baskerville', serif;
-	font-family: 'Playfair Display', serif;
-	font-size: 50px;
+	font-family: font-family: 'Cormorant Garamond', serif;
+	font-family: 'Libre Bodoni', serif;
+	font-style: italic;
+	font-size: 45px;
 	font-weight: bold;
 	}
 
 h2 {
-	color: #222222;
-	font-family: 'Libre Baskerville', serif;
-	font-family: 'Playfair Display', serif;
-	font-size: 20px;
+	color: #color: #424242;
+	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Libre Bodoni', serif;
+	font-size: 18px;
 }
 
 h3 {
 	color: #000000;
-	font-family: 'Libre Baskerville', serif;
-	font-family: 'Playfair Display', serif;
-	font-size: 16px;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-family: 'Padauk', sans-serif;
+	font-weight: bold;
+	font-size: 26px;
 }
 
 body {
 	background-color: #whitesmoke; color: #3B463C; 
-	font-family: 'Abel', sans-serif;
-	font-family: 'Open Sans', sans-serif;
-	margin-left: 80px;
-	padding-bottom: 80px
+	font-family: 'Alegreya Sans', sans-serif;
+	font-family: 'Padauk', sans-serif;
+	font-weight: boldest;
+	font-size: 24px;
+	color: #424242;
+	padding: 80px;
 }
 
 img {
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 90%;
 }
